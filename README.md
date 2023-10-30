@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am new there 👋
 
 <!--
 **911099306/911099306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
